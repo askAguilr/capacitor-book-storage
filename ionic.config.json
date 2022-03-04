@@ -1,0 +1,7 @@
+{
+  "name": "Car Launcher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
